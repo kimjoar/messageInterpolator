@@ -1,0 +1,11 @@
+{
+  "name": "messageInterpolator",
+  "version": "0.0.1",
+  "main": "messageInterpolator.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "license": "MIT"
+}
